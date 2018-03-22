@@ -45,11 +45,12 @@ img {
 
 /* Hero Section */
 header.hero {
-  background: url(../assets/hero-bg.jpg) no-repeat center center fixed;
+  background: url(../assets/hero2.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-position-y: 35%;
   color: #fff;
   padding-bottom: 80px;
 }
